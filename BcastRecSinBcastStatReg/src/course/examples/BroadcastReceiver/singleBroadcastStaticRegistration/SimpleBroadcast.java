@@ -15,7 +15,7 @@ public class SimpleBroadcast extends Activity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
-		
+		//It is Anamta Khan Coding
 		Button button = (Button) findViewById(R.id.button);
 		button.setOnClickListener(new OnClickListener() {
 			@Override
